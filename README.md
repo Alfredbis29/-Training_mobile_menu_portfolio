@@ -12,9 +12,9 @@
 To use this project and running it localy, follow the steps bellow:
 #### Clone this repository
 
-`git clone git@github.com:cynthiainga/training_mobile_menu.git`
+`git clone https://github.com/Alfredbis29/-Training_mobile_menu_portfolio.git`
 
-`cd training_mobile_menu`
+`cd -Training_mobile_menu_portfolio `
 
 #### Open page in browser
 ```bash
@@ -34,7 +34,7 @@ $ runs on http://localhost:8000/
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/Alfredbis29/-Training_mobile_menu_portfolio/issues/new).
 
 ## Show your support
 
