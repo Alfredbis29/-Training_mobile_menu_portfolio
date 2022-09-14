@@ -1,6 +1,6 @@
 # Curriculum Training Mobile Menu
 
-> 
+>
 
 ## Built With
 
@@ -26,15 +26,15 @@ $ runs on http://localhost:8000/
 
 👤 **Candy Inga Cynthia**
 
-- GitHub: [@cynthiainga](https://github.com/cynthiainga)
-- Twitter: [@CynthiaInga_C](https://twitter.com/CynthiaInga_C)
-- LinkedIn: [Cynthia Inga](https://www.linkedin.com/in/cynthia-inga/)
+- GitHub: [@alfredbis29](https://github.com/Alfredbis29)
+- Twitter: [@alfredbisimwa](https://twitter.com/Alfred Bisimwa)
+- LinkedIn: [alfred bisimwa](https://www.linkedin.com/in/Alfredbisimwa/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/cynthiainga/training_mobile_menu/issues).
+Feel free to check the [issues page]().
 
 ## Show your support
 
