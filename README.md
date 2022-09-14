@@ -24,7 +24,7 @@ $ runs on http://localhost:8000/
 
 ## Author
 
-👤 **Candy Inga Cynthia**
+👤 **Kalumuna Bisimwa alfred**
 
 - GitHub: [@alfredbis29](https://github.com/Alfredbis29)
 - Twitter: [@alfredbisimwa](https://twitter.com/Alfred Bisimwa)
