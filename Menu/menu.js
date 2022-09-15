@@ -5,5 +5,4 @@ navigation.addEventListener('click', () => {
   body.classList.toggle('open-menu');
 });
 
-const menuLink = document.querySelectorAll('.nav-link');
 
