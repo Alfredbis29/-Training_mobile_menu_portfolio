@@ -7,6 +7,3 @@ navigation.addEventListener('click', () => {
 
 const menuLink = document.querySelectorAll('.nav-link');
 
-menuLink.forEach((e) => e.addEventListener('click', () => {
-  body.classList.remove('open-menu');
-}));
